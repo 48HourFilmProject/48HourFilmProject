@@ -1,0 +1,154 @@
+<!DOCTYPE html> <!--[if lt IE 9]> <html class="no-js oldie" lang="en"> <![endif]--> <!--[if gt IE 8]> <!--> <html class="no-js" lang="en"> <!--<![endif]--> <html>
+<head><meta charset="UTF-8">
+<title>48 Hour Film Project</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<link rel="canonical" href="https://www.48hourfilm.com/en" />
+<meta name="keywords" property="keywords" content="Film Festival,Film Contest,Filmmaking Contest,Film Competition,Hour Film,Short Film,Filmapalooza,48,movie making" />
+<meta name="description" property="description" content="The 48 Hour Film Project is a wild and sleepless weekend in which you and a team make a movie - write, shoot and edit it - in just 48 hours!!" />
+<meta name="fb:app_id" property="fb:app_id" content="229654587097707" />
+<meta name="og:url" property="og:url" content="https://www.48hourfilm.com/en" />
+
+<meta content="/icons/48-web-icon.png" itemprop="image">
+<link rel="apple-touch-icon" href="/icons/48-web-icon.png">
+
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/normalize.css" />
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/bootstrap.min.css" />
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/jquery.smartmenus.bootstrap.css" />
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/font-awesome.min.css" />
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/font-proxima.css" />
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/hfp-home.css" />
+<link rel="stylesheet" href="https://www.48hourfilm.com/css/comp-48hfp.css" />
+<!--[if lt IE 9]><script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script><script src="https://oss.maxcdn.com/libs/respond./js/1.4.2/respond.min.js"></script><![endif]-->
+<script language='JavaScript' type='text/javascript'><!--
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-20285746-1']);
+_gaq.push(['_setDomainName', '.48hourfilm.com']);
+_gaq.push(['_trackPageview']);
+(function() {
+	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+//-->
+</script>
+            <script>
+            var href=window.location.href;
+            var pieces=href.split("?");
+            window.location.href=href+(1<pieces.length?"&":"?")+"js=1";
+            </script>
+            
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){
+if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");
+ fbq("init", "272439150286160"); 
+fbq("track", "PageView");
+</script>
+<noscript>
+ <img height="1" width="1" src="https://www.facebook.com/tr?id=272439150286160&ev=PageView&noscript=1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+        <script type="text/javascript" src="https://a.opmnstr.com/app/js/api.min.js" data-account="70438" data-user="62550" async></script>
+<!-- begin zoho -->
+<script>var w=window;var p = w.location.protocol;if(p.indexOf("http") < 0){p = "http"+":";}var d = document;var f = d.getElementsByTagName('script')[0],s = d.createElement('script');s.type = 'text/javascript'; s.async = false; if (s.readyState){s.onreadystatechange = function(){if (s.readyState=="loaded"||s.readyState == "complete"){s.onreadystatechange = null;try{loadwaprops("27218d28c96aa859e5b1fffb1fdb23da5","20f4116a7b42e85b4b84e975421c17899","2a7f22299f8b46b072afd563b52fc032b894375f7a7d2d66f","26e8a1c0f1a6d0ddf1a7268a58bd5c63c","0.0");}catch(e){}}};}else {s.onload = function(){try{loadwaprops("27218d28c96aa859e5b1fffb1fdb23da5","20f4116a7b42e85b4b84e975421c17899","2a7f22299f8b46b072afd563b52fc032b894375f7a7d2d66f","26e8a1c0f1a6d0ddf1a7268a58bd5c63c","0.0");}catch(e){}};};s.src =p+"//mh.zoho.com/hub/js/WebsiteAutomation.js";f.parentNode.insertBefore(s, f);</script>
+<!-- end zoho -->
+
+</head>
+<body><!-- BEGIN NAVIGATION --><nav id="top-nav">
+    <div role="navigation" class="navbar navbar-default navbar-inverse">
+        <div class="container">
+            <div class="navbar-header visible-xs">
+                <a href="#" class="navbar-brand pull-right" data-toggle="collapse" data-target=".navbar-collapse"><i class="fa fa-list"></i></a>
+                <a href="/en/home" target="_top" class="navbar-brand pull-left brand-logo"><span>The </span><span class="logo-48">48</span><span> Hour Film Project</span></a>
+            </div>
+            <div class="row nav-guts">
+                <div class="navbar-collapse collapse navbar-right">
+                    <a href="https://www.facebook.com/48hourfilmproject" target="_blank" class="navbar-brand"><i class="fa fa-facebook"></i></a>
+                    <a href="https://twitter.com/48HourFilmProj" target="_blank" class="navbar-brand"><i class="fa fa-twitter"></i></a>
+                    <a href="https://instagram.com/48hourfilmproject" target="_blank" class="navbar-brand"><i class="fa fa-instagram"></i></a><a class="navbar-brand" target="_top" href="/en/films"><i class="fa fa-youtube-play"></i></a><a class="navbar-brand" target="_top" href="/en/locations"><i class="fa fa-map-marker"></i></a><a class="navbar-brand" target="_top" href="/en/contact-us"><i class="fa fa-envelope"></i></a>	<a href="/en/home" target="_top" class="navbar-brand"><i class="fa fa-home" style="font-size:1.24em;margin-top:-.1em;"></i></a>
+                </div>
+                <div class="navbar-collapse collapse navbar-left">
+                    <ul class="nav navbar-nav"><li><a target="_top" href="/en/about-us">About Us</a><ul class="dropdown-menu"><li><a target="_top" href="/en/about">Who We Are</a></li><li><a target="_top" href="/en/news-articles">Latest News</a></li><li><a target="_top" href="/en/producers">Our Producers</a></li><li><a target="_top" href="/en/be-a-producer">Be a City Producer</a></li><li><a target="_top" href="/en/sponsors">Our Sponsors</a></li><li><a target="_top" href="/en/press">Press Room</a></li><li><a target="_top" href="/en/contact-us">Contact Us</a></li></ul></li><li><a target="_top" href="/en/how-it-works">How It Works</a><ul class="dropdown-menu"><li><a target="_top" href="/en/genres">Genre Drawings</a></li><li><a target="_top" href="/en/elements">Required Elements</a></li><li><a target="_top" href="/en/documents">Production Documents</a></li><li><a target="_top" href="/en/digital-dropoff">Digital Dropoff</a></li><li><a target="_top" href="/en/filmmaking-rules">Filmmaking Rules</a></li><li><a target="_top" href="/en/legal-rules">Competition Rules</a></li><li><a target="_top" href="/en/frequent-questions">Frequently Asked Questions</a></li><li><a target="_top" href="/en/judging-and-prizes">Judging & Prizes</a></li><li><a target="_top" href="/en/after-the-48">After the 48</a></li></ul></li><li><a target="_top" href="/en/get-started">Get Started</a><ul class="dropdown-menu"><li><a target="_top" href="/en/newbie">New To The 48?</a></li><li><a target="_top" href="/en/register">Register a Team</a></li><li><a target="_top" href="/en/weekends">Filmmaking Weekends</a></li><li><a target="_top" href="/en/locations">Participating Cities</a></li><li><a target="_top" href="/en/add-my-city">Add My City to the Tour</a></li></ul></li><li><a target="_top" href="/en/events">Events</a><ul class="dropdown-menu"><li><a target="_top" href="/en/cannes">Cannes</a></li><li><a target="_top" href="/en/filmapalooza">Filmapalooza</a></li><li><a target="_top" href="/en/iag">Ibero America</a></li></ul></li><li><a target="_top" href="/en/special-competitions">Competitions</a><ul class="dropdown-menu"><li><a target="_top" href="/en/48hfp-competition">Original 48HFP</a></li><li><a target="_top" href="/en/animation">48x2 Animation Project</a></li><li><a target="_top" href="/en/4pfp-home">Four Points Film Project</a></li><li><a target="_top" href="/en/yes-we-cannes">Yes We Cannes</a></li></ul></li>	</ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</nav><!-- END NAVIGATION --><!-- BEGIN HEADER --><header class="no-title header-centered"><div class="container"><div class="header-inner"><div class="title-heading"><div class="page-title"><h1 class="h4 hidden-xs"><a href="/en/home" target="_top" class="brand-logo"><span>The</span> <span class="logo-48">48</span> <span>Hour Film Project</span></a></h1></div></div></div></div></header><!-- END HEADER --><div style="background-color:#fff;position:absolute;left:0;right:0;height:2px;">&nbsp;</div>
+<div class="well text-center" style="background-color:#fff;padding-top:0px;padding-bottom:0px;margin-bottom:0px;border:0px none transparent;">
+    <div class="container" style=""><h1 style="margin-top:0px;margin-bottom:0px;font-family:ProximaNovaB;font-size:2em;color:#c00;">Filmmaking is now a team sport!!</h1><p class="visible-xs" style="margin-top:30px;margin-left:30px;margin-right:30px;"><a class="btn btn-primary btn-lg" style="margin-bottom:15px;font-size:1.2em;font-family:ProximaNovaB;" href="/newbie">Newbie? Start Here</a> <a class="btn btn-secondary btn-lg" style="margin-bottom:15px;font-size:1.2em;font-family:ProximaNovaB;" href="/register">Register a Team</a> <a class="btn btn-danger btn-lg" style="margin-bottom:15px;font-size:1.2em;font-family:ProximaNovaB;" href="/locations">Find Your Event</a> </p><br /><p class="hidden-xs" style="margin-bottom:0px;"><a class="btn btn-primary " style="margin-bottom:15px;font-size:1.2em;font-family:ProximaNovaB;" href="/newbie">Newbie? Start Here</a> <a class="btn btn-secondary " style="margin-bottom:15px;font-size:1.2em;font-family:ProximaNovaB;" href="/register">Register a Team</a> <a class="btn btn-danger " style="margin-bottom:15px;font-size:1.2em;font-family:ProximaNovaB;" href="/locations">Find Your Event</a> </p><br /></div>
+</div>
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel"><ol class="carousel-indicators"><li data-target="#carousel-example-generic" style="margin-left:4px;margin-right:4px;" data-slide-to="1" class=""></li><li data-target="#carousel-example-generic" style="margin-left:4px;margin-right:4px;" data-slide-to="2" class=""></li><li data-target="#carousel-example-generic" style="margin-left:4px;margin-right:4px;" data-slide-to="3" class=""></li></ol><div class="carousel-inner" role="listbox"><div class="item active"><img src="/resources/home/rotation/rotation-1.jpg" style="width:100%;" /></div><div class="item "><img src="/resources/home/rotation/rotation-2.jpg" style="width:100%;" /></div><div class="item "><img src="/resources/home/rotation/rotation-3.jpg" style="width:100%;" /></div></div></div>
+<div class="well text-center" style="background-color:rgb(105,56,142);border-color:rgb(105,56,142);padding-top:5px;padding-bottom:10px;margin-bottom:0px;">
+    <div class="container" style=""><h6 style="color:rgb(239,239,239);">Thanks to Our Sponsor</h6><div style="display:inline-block;padding-bottom:10px;padding-left:20px;padding-right:20px;">&nbsp;<a href="https://www.write-bros.com/" target="_blank"><img src="/resources/home/logos/screenwriter-alt.png" alt="Movie Magic Screenwriter" style="height:32px;" /></a> &nbsp;</div></div>
+</div>
+
+<div class="well" style="padding-top:60px;padding-bottom:30px;margin-bottom:0px;background-image:url(https://www.48hourfilm.com/resources/home/about-photo.jpg);background-repeat:no-repeat;background-position:center;background-size:cover;border-color:#000;">
+    <div class="container" style=""><div class="row"><div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2"><div class="jumbotron" style="font-family:ProximaNovaB;background-color:rgba(239,239,239,.85);border:2px solid #000;"><h3 style="font-family:ProximaNovaB;">The 48 Hour Film Project Returns for 2022</h3><p>With In-Person Screenings. See your film on the big screen!</p><p>How to 48 in 5 easy steps:<ol><li style="font-size:1em;">Put your team together--friends, fellow filmmakers, like-minded creatives</li><li style="font-size:1em;"><a href="/register">Register</a> for your city's 48 Hour Film Project</li><li style="font-size:1em;">Receive your genre, character, prop and line at Kickoff</li><li style="font-size:1em;">Make a movie and have fun!  You have 48 Hours to write, shoot and edit a short</li><li style="font-size:1em;">Upload your film by the deadline and make plans to attend the screening.</li></ol></p><div class="row"><div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2"><br /><p><a href="https://48hourfilm.com/how-it-works" style="text-transform:uppercase"><img src="https://i.vimeocdn.com/video/713044748-51e170ef65c0da0879de09646e9e4eb172b8442f1256fa3e766f59a56cb89771-d_720" class="_hidden-xs img-responsive photo" /><span class="_visible-xs"><i class="fa fa-film"></i> How It Works <nobr><small>(in less than a minute)</small></nobr></span></a></p></div></div></div></div></div></div>
+</div>
+
+<div class="well films" style="color:#fff;background-color:rgb(249,190,48);border-color:rgb(229,164,7);padding-top:30px;padding-bottom:30px;margin-bottom:0px;">
+    <div class="container"><h3 class="text-center" style="font-family:ProximaNovaB!important;font-weight:bold;text-transform:uppercase;">What Genre Will You Draw?</h3><h4 class="text-center" style="max-width:500px;margin-left:auto;margin-right:auto;"><p>Your filmmaking weekend begins by drawing two genres from a hat.  Pick one to use or combine them both.</p>Here are a few sample genres for 2023. <a href="/genres" style="color:#fff;text-decoration:underline;">View the full list.</a></h4><hr style="max-width:600px;" /><div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0"><h4 style="color:#fff;text-transform:uppercase;">Drama</h4><a href="/genres"><img src="/resources/photo/drama-example-Right-Call.jpg" class="photo _hidden-xs" style="border:1px solid #fff;box-shadow:none;"></a></div><div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0"><h4 style="color:#fff;text-transform:uppercase;">Horror</h4><a href="/genres"><img src="/resources/photo/horror.jpg" class="photo _hidden-xs" style="border:1px solid #fff;box-shadow:none;"></a></div><div class="clearfix visible-sm"></div><div class="col-xs-12 col-sm-10 col-sm-offset-1 col-md-4 col-md-offset-0"><h4 style="color:#fff;text-transform:uppercase;">Sci Fi</h4><a href="/genres"><img src="/resources/photo/sci-fi-example-System-Failure.jpg" class="photo _hidden-xs" style="border:1px solid #fff;box-shadow:none;"></a></div><div class="clearfix visible-md"></div></div></div>
+</div>
+
+<div class="well text-center" style="background-color:rgb(137,76,184);border-color:rgb(105,56,142);padding-top:60px;padding-bottom:60px;margin-bottom:0px;">
+    <div class="container"><div class="row"><div class="col-xs-12 col-md-10 col-md-offset-1 col-lg-8 col-lg-offset-2"><a href="/producers-kit"><div><img class="img-responsive" style="border:1px solid #fff;" src="/resources/home/prod-toolkit-photo.jpg" /></div><div class="hidden-xs" style="margin-top:-150px;margin-bottom:50px;"><div class="btn btn-secondary"><span style="color:#fff;font-family:ProximaNovaB;font-size:2em;text-transform:uppercase;">Get Your 48HFP <br />Film Producer's Kit</span></div></div></a><div class="visible-xs"><br /><a class="btn btn-secondary" href="/producers-kit" style="width:100%;"><span style="color:#fff;font-family:ProximaNovaB;font-size:1.5em;text-transform:uppercase;">Get Your 48HFP <br />Film Producer's Kit</span></a></div></div></div></div>
+</div>
+
+<div class="well films text-center" style="color:#fff;background-color:#ce413d;border-color:#ae2126;padding-top:60px;padding-bottom:60px;margin-bottom:0px;">
+    <div class="container"><p class="hidden-xs"><a href="/icontact" class="btn btn-default"><span style="color:#fff;font-family:ProximaNovaB;font-size:2em;text-transform:uppercase;color:#ae2126;">&nbsp; Join Our Community &nbsp;</span></a></p><p class="visible-xs"><a href="/icontact" class="btn btn-default"><span style="color:#fff;font-family:ProximaNovaB;font-size:1.5em;text-transform:uppercase;color:#ae2126;">&nbsp; Join Our Community &nbsp;</span></a></p><p style="font-size:1.2em;"><strong>Local Events, Mixers & Workshops <br class="visible-xs visible-sm" /><span class="hidden-xs hidden-sm">&bull;</span> Global 48 Updates & Opportunities</strong></p></div>
+</div>
+
+<div class="well films" style="background-color:#333;border-color:#000;padding-top:60px;padding-bottom:60px;margin-bottom:-15px;">
+    <div class="container"><h3 class="text-center"><strong><span style="font-size:.84em;">How good can a film actually be if you only have 48 hours to make it?</span></h3><h3 class="text-center"><span style="font-family:ProximaNovaB;">Take a look and see...</span></h3><hr /><h5>Featured 48HFP Films</h5><div class="row"><div class="col-lg-9"><h4>"勝利の選択" by W7<small><i class="fa fa-trophy"></i> Osaka, JP 48HFP 2018</small></h4><div class='video-player'><iframe src='https://player.vimeo.com/video/308356971?api=1&amp;badge=0&amp;byline=0&amp;portrait=0&amp;title=0&amp;fullscreen=1&amp;player_id=vimeo_308356971' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div><div class="col-lg-3"><div class="row"><div class="col-xs-12 col-md-6 col-lg-12"><h4>"Masterclass" by Team Tonger<small><i class="fa fa-trophy"></i> Leeuwarden, NL 48HFP 2018</small></h4><div class='video-player'><iframe src='https://player.vimeo.com/video/304131014?api=1&amp;badge=0&amp;byline=0&amp;portrait=0&amp;title=0&amp;fullscreen=1&amp;player_id=vimeo_304131014' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div><div class="col-xs-12 col-md-6 col-lg-12"><h4>"Wayless" by Imaginary Friends (HCM)<small><i class="fa fa-trophy"></i> Ho Chi Minh City, VN 48HFP 2018</small></h4><div class='video-player'><iframe src='https://player.vimeo.com/video/288196985?api=1&amp;badge=0&amp;byline=0&amp;portrait=0&amp;title=0&amp;fullscreen=1&amp;player_id=vimeo_288196985' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div></div></div><div class="text-center"><a href="/films" class="btn btn-secondary"><i class="fa fa-plus"></i> More Films</a></div></div>
+</div>
+
+<div class="well" style="margin-bottom:0px;background-color:#fff;padding-top:30px;padding-bottom:30px;margin-bottom:-15px;">
+    <div class="container"><h5>Latest News</h5><div class="row"><div class="col-md-8 news-preview"><a href="/news-articles/224/The-48HFP-Takes-You-Places"><h3>The 48HFP Takes You Places</h3></a><a href="/news-articles/224/The-48HFP-Takes-You-Places"><img src="/resources/newsarticle/224-Making_a_48_hour_film_in_2022.jpg" class="photo" /></a>
+&nbsp;&nbsp; On April 29, the&nbsp;48&nbsp;Hour&nbsp;Film&nbsp;Project kicks off in Jacksonville and Madison in the US, and in Arnhem, Netherlands and Lisbon internationally.&nbsp; Thousands of filmmakers and would-be filmmakers undertake this filmmaking adventure each year.&nbsp; Why? Because the 48HFP takes creatives, gives them an experience, sets them on a path to future success and leads to recognition and careers.
+&nbsp; The 48HFP is for filmmakers of all levels becaus... <a href='/news-articles/224/The-48HFP-Takes-You-Places'>read more</a><br class="hidden-md hidden-lg" /></div><div class="col-md-4"><div class="row"><div class="col-xs-12 col-sm-6 col-md-12"><a href="/news-articles/223/48ers-Part-of-the-Crew-for-Oscar-Winner-CODA"><h4>48ers Part of the Crew for Oscar Winner "CODA"</h4></a><a href="/news-articles/223/48ers-Part-of-the-Crew-for-Oscar-Winner-CODA"><img src="/resources/newsarticle/223-CODA.jpg" class="photo" /></a><br class="hidden-md hidden-lg" /></div><div class="col-xs-12 col-sm-6 col-md-12"><a href="/news-articles/222/Filmapalooza-Awards-Announced"><h4>Filmapalooza Awards Announced</h4></a><a href="/news-articles/222/Filmapalooza-Awards-Announced"><img src="/resources/newsarticle/222-Filmapalooza.GrandChampions2021.png" class="photo" /></a><br class="hidden-md hidden-lg" /></div></div></div></div><div class="text-center"><a href="/news-articles" class="btn btn-secondary"><i class="fa fa-plus"></i> More Stories</a></div></div>
+</div>
+<!-- BEGIN FOOTER -->
+<footer class="well">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <div id="newsletter-signup" class="col-lg-4">
+                    <div class="well text-center">
+                        <h3><i class="fa fa-envelope-o"></i> 48HFP Newsletter</h3>
+                        <p>
+                            <nobr>Event Dates • Film Tips & Tricks</nobr>
+                            <nobr>Current News • Recent Winners</nobr>
+                        </p>
+                        <a class="btn btn-default btn-secondary newsletter-link" target="_top" href="/en/icontact"><i class="fa fa-envelope"></i> Sign Up Now!</a>
+                    </div>
+                </div>
+                <div id="foot-menu" class="col-lg-8">
+                    <div class="row"><div class="col-xs-12 col-sm-3"><ul class="nav nav-stacked"><li><a target="_top" href="/en/about-us"><strong>About Us</strong></a></li></ul><ul class="nav nav-stacked hidden-xs"><li><a target="_top" href="/en/about">Who We Are</a></li><li><a target="_top" href="/en/news-articles">Latest News</a></li><li><a target="_top" href="/en/producers">Our Producers</a></li><li><a target="_top" href="/en/be-a-producer">Be a Producer</a></li><li><a target="_top" href="/en/sponsors">Our Sponsors</a></li><li><a target="_top" href="/en/press">Press</a></li><li><a target="_top" href="/en/contact-us">Contact Us</a></li></ul></div><div class="col-xs-12 col-sm-3"><ul class="nav nav-stacked"><li><a target="_top" href="/en/how-it-works"><strong>How It Works</strong></a></li></ul><ul class="nav nav-stacked hidden-xs"><li><a target="_top" href="/en/genres">Genres</a></li><li><a target="_top" href="/en/elements">Elements</a></li><li><a target="_top" href="/en/documents">Documents</a></li><li><a target="_top" href="/en/digital-dropoff">Digital Dropoff</a></li><li><a target="_top" href="/en/filmmaking-rules">Rules</a></li><li><a target="_top" href="/en/legal-rules">Competition Rules</a></li><li><a target="_top" href="/en/frequent-questions">FAQs</a></li><li><a target="_top" href="/en/judging-and-prizes">Judging & Prizes</a></li><li><a target="_top" href="/en/after-the-48">After the 48</a></li></ul></div><div class="col-xs-12 col-sm-3"><ul class="nav nav-stacked"><li><a target="_top" href="/en/get-started"><strong>Get Started</strong></a></li></ul><ul class="nav nav-stacked hidden-xs"><li><a target="_top" href="/en/newbie">New To The 48?</a></li><li><a target="_top" href="/en/register">Register</a></li><li><a target="_top" href="/en/weekends">Weekends</a></li><li><a target="_top" href="/en/locations">Cities</a></li><li><a target="_top" href="/en/add-my-city">Add My City</a></li></ul></div><div class="col-xs-12 col-sm-3"><ul class="nav nav-stacked"><li><a target="_top" href="/en/events"><strong>Events</strong></a></li></ul><ul class="nav nav-stacked hidden-xs"><li><a target="_top" href="/en/cannes">Cannes</a></li><li><a target="_top" href="/en/filmapalooza">Filmapalooza</a></li><li><a target="_top" href="/en/iag">Ibero America</a></li></ul></div><div class="col-xs-12 col-sm-3"><ul class="nav nav-stacked"><li><a target="_top" href="/en/special-competitions"><strong>Competitions</strong></a></li></ul><ul class="nav nav-stacked hidden-xs"><li><a target="_top" href="/en/48hfp-competition">48HFP</a></li><li><a target="_top" href="/en/animation">Animation Project</a></li><li><a target="_top" href="/en/4pfp-home">4PFP</a></li><li><a target="_top" href="/en/yes-we-cannes">Yes We Cannes</a></li></ul></div>	</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- END FOOTER --><!-- BEGIN COPYRIGHT -->
+<copyright>
+    <div class="container">
+        <div class="clearfix">
+            <div class="pull-left">
+                <p><nobr>Important Message:</nobr> <nobr><a class="disclaimer-link" href="/en/copycat-disclaimer"><strong>Copycat Disclaimer</strong></a></nobr> &bull; <nobr><a class="privacy-policy" href="/en/privacy"><strong>Privacy Policy</strong></a></nobr></p>
+                <p><nobr>Copyright &copy; 2001-2023</nobr> <nobr><strong>48 Hour Film Project, Inc.</strong></nobr> <nobr>All Rights Reserved</nobr></p>
+            </div>
+            <div class="pull-right">
+                <a href="https://www.facebook.com/48hourfilmproject" class="btn btn-default btn-facebook"><i class="fa fa-facebook"></i> facebook</a> 
+                <a href="https://twitter.com/48HourFilmProj" class="btn btn-default btn-twitter"><i class="fa fa-twitter"></i> twitter</a>
+                <a href="https://instagram.com/48hourfilmproject" class="btn btn-default btn-instagram"><i class="fa fa-instagram"></i> instagram</a> </div>
+        </div>
+    </div>
+</copyright>
+<!-- END COPYRIGHT --><script src="/js/jquery-1.11.0.min.js"></script><script src="/js/bootstrap.min.js"></script><script src="/js/jquery.smartmenus.js"></script><script src="/js/angular.min.js"></script><script src="/js/hfp-languages.js"></script><script src="/js/jquery.smartmenus.bootstrap.js"></script></body></html>
