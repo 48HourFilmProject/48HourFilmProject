@@ -1,0 +1,193 @@
+/*@media (min-width: @screen-sm-min) {*/
+.note-sheet {
+  margin-top: 45px;
+  _margin-bottom: 15px;
+  margin-bottom: 30px;
+  line-height: 25px;
+  box-shadow: 0 0 0 transparent;
+  position: relative;
+  padding: 12px 16px 12px 42px!important;
+  border: 1px solid #b3b3b3;
+  border-bottom: 0;
+  background: url(../images/img-bg_notepad_bott.png) -1px 100% repeat-x, url(../images/img-bg_notepad.png) 0 0 repeat;
+}
+.note-sheet.alt {
+  background: url(../images/img-bg_notepad_bott_alt.png) -1px 100% repeat-x, url(../images/img-bg_notepad_alt.png) 0 0 repeat;
+}
+.note-sheet:before,
+.note-sheet:after {
+  content: "";
+  display: block;
+  width: 84px;
+  position: absolute;
+}
+.note-sheet:before {
+  height: 33px;
+  top: -22px;
+  left: 44px;
+  background: url(../images/img-misc_tape_left.png) no-repeat;
+}
+.note-sheet:after {
+  height: 33px;
+  top: -16px;
+  right: 46px;
+  background: url(../images/img-misc_tape_right.png) no-repeat;
+}
+.note-sheet dt,
+.note-sheet dd {
+  line-height: 25px;
+}
+.note-sheet > h4,
+.note-sheet > dt {
+  text-decoration: underline;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
+.note-sheet > dd {
+  margin-top: 0;
+  margin-bottom: 25px;
+}
+.note-sheet .fa {
+  width: 16px;
+  text-align: center;
+  margin-left: -34px;
+  margin-right: 14px;
+  color: #894cb8;
+}
+.note-sheet p {
+  margin-bottom: 0;
+}
+.note-sheet p:last-child {
+  margin-bottom: 15px;
+}
+/*}*/
+.note {
+  margin-bottom: 15px;
+  border: 1px solid #bbb!important;
+  background: #fffcf6;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  overflow: hidden;
+}
+.note-branded {
+  margin-bottom: 15px;
+  border: 1px solid #bbb!important;
+  background: #fffcf6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  overflow: hidden;
+}
+.note-branded h4 .fa,
+.note-branded h5 .fa {
+  font-size: 180%;
+  display: block;
+  float: left;
+  margin-right: 8px;
+}
+.note-branded h4 small,
+.note-branded h5 small {
+  color: #b00;
+}
+/*
+.note-branded{
+	margin-bottom:@grid-gutter-width / 2;
+	border:1px solid #bbb!important;
+	background:lighten(@brand-secondary,40%);
+	padding-left:@padding-large-horizontal;
+	padding-right:@padding-large-horizontal;
+	position:relative; overflow:hidden;
+	h4:after{
+		font-family:FontAwesome;
+		color:lighten(@brand-secondary,30%);
+		font-size:200%;
+		position:absolute;
+		right:0; bottom:0;
+		margin-bottom:-@padding-large-vertical;
+		margin-right:-4px;
+	}
+}
+#required-documents .note-branded{
+	h4:after{content:'\f15b';}
+}
+#required-elements-characters .note-branded{
+	h4:after{content:'\f007';}
+}
+#required-elements .note-branded,
+#required-elements-props .note-branded{
+	h4:after{content:'\f12e';}
+}
+#required-elements-lines .note-branded{
+	h4:after{content:'\f10e';}
+}
+
+
+#required-elements .note-branded{
+	small:last-child{
+		display:inline-block;
+		font-size:100%;
+	}
+	@media (min-width: @screen-sm-min) {
+		@media (max-width: @screen-sm-max) {
+			margin-left:100px;
+			margin-right:100px;
+		}
+	}
+}
+
+
+@media (min-width: @screen-sm-min) {
+	.note-sheet{
+		margin-top:@grid-gutter-width;
+		margin-bottom:@grid-gutter-width / 2;
+		line-height:25px;
+		box-shadow: 0 0 0 transparent;
+		position: relative;
+		padding: 12px 16px 8px 42px!important;
+		border: 1px solid #b3b3b3;
+		border-bottom: 0;
+		background: url(../images/img-bg_notepad_bott.png) -1px 100% repeat-x, url(../images/img-bg_notepad.png) 0 0 repeat;
+		&:before,
+		&:after {
+			content: "";
+			display: block;
+			width: 84px;
+			position: absolute;
+		}
+		&:before {
+			height: 33px;
+			top: -22px;
+			left: 44px;
+			background: url(../images/img-misc_tape_left.png) no-repeat;
+		}
+		&:after {
+			height: 33px;
+			top: -16px;
+			right: 46px;
+			background: url(../images/img-misc_tape_right.png) no-repeat;
+		}
+		h4{
+			text-decoration:underline;
+			margin-top:12px;
+			margin-bottom:0;
+		}
+		p{
+			margin-top:0;
+			margin-bottom:25px;
+		}
+		@media (max-width: @screen-sm-max) {
+			margin-left:100px;
+			margin-right:100px;
+		}
+	}
+	.alt {
+		.note-sheet{
+			background: url(../images/img-bg_notepad_bott_alt.png) -1px 100% no-repeat, url(../images/img-bg_notepad_alt.png) 0 0 repeat;
+		}
+	}
+}
+
+*/
